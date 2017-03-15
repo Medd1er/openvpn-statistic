@@ -24,5 +24,4 @@ A shell script to grab statistic of OpenVPN connections
       > systemctl restart zabbix-agent
       
    6. Import **template-openvpn-statistic.xml**
-   7. Import **screen-openvpn-statistic.xml**
-   8. Enjoy!
+   7. Enjoy!
